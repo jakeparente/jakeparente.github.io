@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Games 
 
-[Project 1 Title](/sample_page)
+[Inator](/sample_page)
+[itch](https://jakeparente.itch.io/inator)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
