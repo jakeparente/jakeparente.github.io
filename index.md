@@ -18,7 +18,7 @@
 
 ### Games & Apps
 
-- [Inator](/inator)
+- [Inator](/inator.md)
 - [ZooStreet](https://play.google.com/store/apps/details?id=com.JakeParente.ZooStreet)
 - [Airy Plane](https://play.google.com/store/apps/details?id=com.Jake.Parente.AiryPlane)
 
