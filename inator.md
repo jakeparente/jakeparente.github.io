@@ -6,4 +6,5 @@ This is my first real stab at VR game development. It was submitted as an entry 
 It was made in Unity and runs on an Occulus Quest. 
 
 [itch.io page](https://jakeparente.itch.io/inator)
+<br>
 [github project](https://github.com/jakeparente/Inator)
