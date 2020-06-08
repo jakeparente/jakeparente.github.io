@@ -4,9 +4,9 @@
 
 ### Games 
 
-# [Inator](/sample_page)
+#### [Inator](/sample_page)
 <br>
-[itch](https://jakeparente.itch.io/inator) | [github] (https://github.com/jakeparente/Inator)
+[itch](https://jakeparente.itch.io/inator) | [github](https://github.com/jakeparente/Inator)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
