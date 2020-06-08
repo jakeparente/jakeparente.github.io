@@ -5,4 +5,4 @@ This is a fun little game for kids designed as a companion to the [ZooStreet](ht
 <br>
 It was my first go at development in general, and my introduction to Unity.
 
-[Store Page](https://play.google.com/store/apps/details?id=com.JakeParente.ZooStreet&hl=en_CA)
+[Android Store Page](https://play.google.com/store/apps/details?id=com.JakeParente.ZooStreet&hl=en_CA)
