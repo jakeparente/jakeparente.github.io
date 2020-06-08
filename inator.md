@@ -1,31 +1,16 @@
-## This can be your internal website page / project page
+# Inator
+VR-JAM 2020 entry.
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Authors
+- Jake Parente
+- Zach Sims
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+## Assets
+- [Sci-fi Gun Sounds Pack](LITE https://assetstore.unity.com/packages/audio/sound-fx/weapons/sci-fi-gun-sounds-pack-lite-141125)
+- [Fantasy Skybox](FREE https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
+- [Free Simple Treasure Chest](https://assetstore.unity.com/packages/3d/free-simple-treasure-chest-78920)
+- [Fruit Pack](https://assetstore.unity.com/packages/3d/props/food/fruit-pack-80254)
+- [Procedural fire](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/procedural-fire-141496)
+- [Modern Guns: Handgun](https://assetstore.unity.com/packages/3d/props/guns/modern-guns-handgun-129821)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Shout out to [Valem](https://www.youtube.com/channel/UCPJlesN59MzHPPCp0Lg8sLw) for the knowledge and [Dr. Doofenshmirtz](https://preview.redd.it/nhpezrihxd731.png?width=626&auto=webp&s=83e3e0d3af24a9f5dbf176bc5465d4973d076b68) for the idea.
