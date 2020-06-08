@@ -2,10 +2,8 @@
 
 ---
 
-### Games 
-
-#### [Inator](/sample_page)
-[itch](https://jakeparente.itch.io/inator) | [github](https://github.com/jakeparente/Inator)
+### Projects
+[Project 1](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -18,13 +16,11 @@
 
 ---
 
-### Category Name 2
+### Games & Apps
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Inator](http://example.com/)
+- [ZooStreet](http://example.com/)
+- [Airy Plane](http://example.com/)
 
 ---
 
