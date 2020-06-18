@@ -32,11 +32,7 @@ fun f3 k x y z = g3 z k x y z
 fun g3 c k x y z = c * (f1 k x y z)
 ```
 <br><br>
-Frankly, this was the most dificult assignment of my university career. However, I aced it, and it is the reason I feel comfortable with Haskell.
-
----
-#### Checkers in Haskell
-
+Frankly, this was the most dificult assignment of my university career. However, **I aced it**, and it is the reason I feel comfortable with Haskell.
 
 ---
 #### Database Storage for Bessie Box
