@@ -9,10 +9,10 @@ Lambda Lifting is the process of independently defining each function in a given
 I used Haskell to Lambda Lift programs written in a simple language that consists of functions, variables, and "let" clauses. Here's an example:
 ```
 fun main x y = let
-fun add p = add_to_x p
-fun add_to_x q = (add_to_y q) + x
-fun add_to_y q = q + y
-in add y + x end
+  fun add p = add_to_x p
+  fun add_to_x q = (add_to_y q) + x
+  fun add_to_y q = q + y
+in add y + x
 ```
 
 
