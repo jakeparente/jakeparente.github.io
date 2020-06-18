@@ -1,10 +1,11 @@
 # Airy Plane
 ![inator picture](/images/zoostreet_feature.png)
 
-This is a fun little game for kids designed as a companion to the [ZooStreet](http://www.zoostreet.ca/) musical. It includes the music from the show, and three little games.
+Surprise suprise, I made a Flappy Bird clone. 
+I made this in a couple weeks in an attempt to publish an app on my own, but it was really just something to do during quarantine.
 <br>
-It was my first go at development and my introduction to Unity.
+Like the other Unity stuff, I learned quite a bit. It was a good step in making projects without just following tutorials.
 
-[Android Store Page](https://play.google.com/store/apps/details?id=com.JakeParente.ZooStreet&hl=en_CA)
+[Android Store Page](https://play.google.com/store/apps/details?id=com.Jake.Parente.AiryPlane)
 
 
