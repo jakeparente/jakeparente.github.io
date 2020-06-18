@@ -19,7 +19,7 @@
 ### Games & Apps
 
 - [ZooStreet](/zoostreet.md)
-- [Airy Plane](https://play.google.com/store/apps/details?id=com.Jake.Parente.AiryPlane)
+- [Airy Plane](/airyplane.md)
 - [Inator](/inator.md)
 
 ---
