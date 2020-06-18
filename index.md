@@ -7,11 +7,13 @@
 Lambda Lifting is the process of independently defining each function in a given program by "lifting" each function to a single global scope. This involves renaming all variables and functions to avoid any clashes while maintaining the meaning of the program, building a call graph that organizes function calls, then changing function calls to include any variables that the callee uses as arguments for the caller.
 <br>
 I used Haskell to Lambda Lift programs written in a simple language that consists of functions, variables, and "let" clauses. Here's an example:
-  fun main x y = let
-    fun add p = add_to_x p
-    fun add_to_x q = (add_to_y q) + x
-    fun add_to_y q = q + y
-  in add y + x end
+```
+fun main x y = let
+fun add p = add_to_x p
+fun add_to_x q = (add_to_y q) + x
+fun add_to_y q = q + y
+in add y + x end
+```
 
 
 ---
