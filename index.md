@@ -6,15 +6,33 @@
 <!--- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 Lambda Lifting is the process of independently defining each function in a given program by "lifting" each function to a single global scope. This involves renaming all variables and functions to avoid any clashes while maintaining the meaning of the program, building a call graph that organizes function calls, then changing function calls to include any variables that the callee uses as arguments for the caller.
 <br>
-I used Haskell to Lambda Lift programs written in a simple language that consists of functions, variables, and "let" clauses. Here's an example:
+We were tasked with writing a Haskell program that could lift a simple language consisting only of aritmethic, functions, variables, and "let" clauses.
+<br><br>
+Here's an example:
 ```
-fun main x y = let
-  fun add p = add_to_x p
-  fun add_to_x q = (add_to_y q) + x
-  fun add_to_y q = q + y
-in add y + x
-```
+fun main x y z n =
+  let
+    fun f1 v = x + f2 v
+    fun f2 j = let
+      fun g2 b = b + f3 j
+    in g2 y + f3 x
+  fun f3 k = let
+    fun g3 c = c * f1 k
+   in g3 z
+in f1 n
 
+```
+Then, the lifted program:
+```
+fun main x y z n = f1 n x y z
+fun f1 v x y z = x + (f2 v x y z)
+fun f2 j x y z = (g2 y j x y z) + (f3 x x y z)
+fun g2 b j x y z = b + (f3 j x y z)
+fun f3 k x y z = g3 z k x y z
+fun g3 c k x y z = c * (f1 k x y z)
+```
+<br><br>
+Frankly, this was the most dificult assignment of my university career. However, I aced it, and it is the reason I feel comfortable with Haskell.
 
 ---
 #### Checkers in Haskell
