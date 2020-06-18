@@ -2,11 +2,11 @@
 
 ---
 ### Notable School Projects
-[Lambda Lifting](/sample_page)
+#### Lambda Lifting
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Checkers in Haskell](/sample_page)
+#### Checkers in Haskell
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
