@@ -3,7 +3,7 @@ logo: "/images/cropped.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Enthusiastic programmer eager to contribute to team success through hard work, attention to detail and
   excellent organizational skills.
-  <br>
+  <br><br>
   Graduated from the University of Calgary in 2020 with a BSc in Computer Science.
   <br>
 theme: jekyll-theme-minimal
